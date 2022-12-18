@@ -87,11 +87,12 @@
               "src/assets"
             ],
             "styles": [
+              "PortfolioWeb/node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
-              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
-            "node_modules/bootstrap/dist/js/bootstrap.js"
+            "scripts": [
+            "PortfolioWeb/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           }
         }
       }
