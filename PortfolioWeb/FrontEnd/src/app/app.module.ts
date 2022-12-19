@@ -26,6 +26,7 @@ import { FooterComponent } from './components/footer/footer.component';
     AcercaDeComponent,
     ExperienciaComponent,
     EducacionComponent,
+    HysComponent,
     ProyectoComponent,
     FooterComponent
   ],
