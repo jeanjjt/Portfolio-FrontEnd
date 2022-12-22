@@ -1,6 +1,14 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
+import { CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { HysComponent } from './hys.component';
+import { NgModule } from '@angular/core';
+import { RoundProgressModule } from 'angular-svg-round-progressbar';
+
+
+@NgModule({
+  imports: [RoundProgressModule]
+})
+export class YourModule {};
 
 describe('HysComponent', () => {
   let component: HysComponent;
