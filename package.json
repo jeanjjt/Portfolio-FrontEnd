@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "babel-loader": "^9.1.2"
+  },
+  "dependencies": {
+    "@ngtools/webpack": "^15.2.3"
+  }
+}
